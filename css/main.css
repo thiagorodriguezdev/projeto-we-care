@@ -1,0 +1,68 @@
+@import url(reset.css);
+
+.header {
+  padding: 4.4rem 0 14.4rem 8rem;
+}
+
+.header > a {
+  color: #989d9c;
+  font-size: 2.4rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  margin-right: 3.5rem;
+}
+
+.header > button {
+  width: 13rem;
+  height: 4.1rem;
+  background-color: #665ae1;
+  border-radius: 5rem;
+  border: none;
+
+  color: #fff;
+  font-size: 2.4rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.illustration {
+  margin: 0 8.5rem 0 12.5rem;
+}
+
+.text {
+  display: inline-block;
+}
+
+.text > h1 {
+  font-size: 10rem;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.text > h2 {
+  font-size: 5.8rem;
+  font-weight: 500;
+}
+
+.text > p {
+  color: #848484;
+  font-size: 2.4rem;
+  max-width: 51.4rem;
+  margin: 3.2rem 0 6.5rem 0;
+}
+
+.text > button {
+  width: 23.9rem;
+  height: 6.4rem;
+  border-radius: 5rem;
+  box-shadow: 0rem 0.4rem 0.4rem 0rem rgba(0, 0, 0, 0.25);
+  background-color: #adff00;
+  border: none;
+
+  color: #000;
+  font-size: 2.8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  cursor: pointer;
+}
